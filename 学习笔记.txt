@@ -1,0 +1,10 @@
+num =0
+n = 2
+
+for i in [2, 100]:
+     for j in [2, i]
+          if i % j == 0:
+          break   
+     else:
+          num += i 
+print(num)     
