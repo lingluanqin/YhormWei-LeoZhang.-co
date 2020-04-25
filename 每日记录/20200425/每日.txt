@@ -1,0 +1,36 @@
+今天正式开始学习，ML 机器学习，以下是关于机器学习的基础定义：
+##################################################
+What is Machine Learning?
+Two definitions of Machine Learning are offered. Arthur Samuel described it as: "the field of study that gives computers the ability to learn without being explicitly programmed." This is an older, informal definition.
+
+Tom Mitchell provides a more modern definition: "A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E. "
+
+Example: playing checkers.
+
+E = the experience of playing many games of checkers
+
+T = the task of playing checkers.
+
+P = the probability that the program will win the next game.
+
+In general, any machine learning problem can be assigned to one of two broad classifications:
+
+Supervised learning and Unsupervised learning.
+
+什么是机器学习？
+提供了两种机器学习的定义。 亚瑟·塞缪尔（Arthur Samuel）将其描述为：“使计算机无需明确编程即可学习的学习领域”。 这是一个较旧的非正式定义。
+
+汤姆·米切尔（Tom Mitchell）提供了一个更现代的定义：“如果某计算机程序在T任务上的性能（由P衡量）随着经验E的提高而提高，则可以说计算机程序可以从经验E中学习一些任务T和性能度量P。 ”
+
+例如：玩跳棋。
+
+E =玩过许多跳棋游戏的经验
+
+T =扮演跳棋的任务。
+
+P =程序将赢得下一场比赛的概率。
+
+通常，可以将任何机器学习问题分配给以下两种广泛的分类之一：
+
+监督学习和无监督学习。
+##############################################################
